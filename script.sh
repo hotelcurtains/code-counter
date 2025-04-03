@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # name of the user or org you want to rip from.
-username="torvalds"
+username="example"
 
 # name of the folder to dump all the new folders into.
 # DO NOT USE SPACES.
