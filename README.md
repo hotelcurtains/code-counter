@@ -32,15 +32,13 @@ ubuntu@wsl:~$ tree ~
 ├── cc
 │   ├── c
 │   │   ├── main.c
+│   │   ├── test.c
 │   │   └── utils.c
 │   ├── h
 │   │   └── utils.h
 │   ├── md
 │   │   └── notes.md
 │   ├── png
-│   │   ├── image-1.png
-│   │   ├── image-2.png
-│   │   ├── image-3.png
 │   │   └── image.png
 │   └── sh
 │       └── fulltest.sh
